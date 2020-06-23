@@ -19,3 +19,8 @@ This package is still in development. The current version of this package is not
 `
 https://github.com/empireboy/com.cm.designpatterns.unity.git
 `
+
+## Dependencies
+
+* [com.cm.pattern](https://github.com/empireboy/com.cm.designpatterns)
+* [com.cm.so](https://github.com/empireboy/com.cm.so)
