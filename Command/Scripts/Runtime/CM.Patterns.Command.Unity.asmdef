@@ -1,0 +1,15 @@
+{
+    "name": "CM.Patterns.Command.Unity",
+    "references": [
+        "GUID:355a8e16ae996114995d49fd318b499c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
