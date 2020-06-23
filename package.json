@@ -1,0 +1,17 @@
+{
+    "name": "com.cm.designpatterns.unity",
+    "displayName": "CM Design Patterns Unity",
+    "version": "0.1.0",
+    "unity": "2019.3",
+    "author": "Casper Meloen",
+    "description": "CM Design Patterns Unity is a Unity package for design patterns like Command, Factory, Singleton etc...",
+    "dependencies": {
+        "com.cm.pattern": "https://github.com/empireboy/com.cm.pattern.git",
+        "com.cm.so": "https://github.com/empireboy/com.cm.so.git"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/empireboy/com.cm.designpatterns.unity.git",
+        "revision": ""
+    }
+}

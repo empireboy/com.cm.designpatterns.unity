@@ -1,0 +1,18 @@
+{
+    "name": "CM.Patterns.Command.Editor",
+    "references": [
+        "GUID:1e6c0cacfc1fdd643bc387b409f8bd15",
+        "GUID:355a8e16ae996114995d49fd318b499c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
