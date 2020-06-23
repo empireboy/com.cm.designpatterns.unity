@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45d0fbc8f38b70d4590624ef972a32b7, type: 3}
   m_Name: CommandPathSO
   m_EditorClassIdentifier: 
-  value: Assets/TriggerTest
+  value: Assets
