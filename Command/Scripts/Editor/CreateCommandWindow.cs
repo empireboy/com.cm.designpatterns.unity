@@ -76,7 +76,7 @@ namespace CM.Patterns.Command
 				outfile.WriteLine("using CM.Patterns.Command;");
 				outfile.WriteLine("using UnityEngine;");
 				outfile.WriteLine(" ");
-				outfile.WriteLine("[CreateAssetMenu(fileName = " + "\"" + commandName + "\"" + ", menuName = " + "\"" + "CM/Trigger/" + commandName + "\"" + ")]");
+				outfile.WriteLine("[CreateAssetMenu(fileName = " + "\"" + commandName + "\"" + ", menuName = " + "\"" + "CM/Commands/" + commandName + "\"" + ")]");
 				outfile.WriteLine("public class " + commandName + "SO : CommandSO");
 				outfile.WriteLine("{");
 				outfile.WriteLine("\tpublic override Command GetCommand()");
