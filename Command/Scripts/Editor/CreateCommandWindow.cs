@@ -25,7 +25,7 @@ namespace CM.Patterns.Command
 
 		private void Awake()
 		{
-			_commandPathSO = Resources.Load<StringSO>("Command/CommandPathSO");
+			_commandPathSO = Resources.Load<StringSO>("CommandPathSO");
 		}
 
 		private void OnGUI()
