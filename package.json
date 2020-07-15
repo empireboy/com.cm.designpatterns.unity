@@ -6,7 +6,7 @@
     "author": "Casper Meloen",
     "description": "CM Design Patterns Unity is a Unity package for design patterns like Command, Factory, Singleton etc...",
     "dependencies": {
-        "com.cm.pattern": "https://github.com/empireboy/com.cm.pattern.git",
+        "com.cm.designpatterns": "https://github.com/empireboy/com.cm.designpatterns.git",
         "com.cm.so": "https://github.com/empireboy/com.cm.so.git"
     },
     "repository": {

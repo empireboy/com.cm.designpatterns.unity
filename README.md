@@ -22,5 +22,5 @@ https://github.com/empireboy/com.cm.designpatterns.unity.git
 
 ## Dependencies
 
-* [com.cm.pattern](https://github.com/empireboy/com.cm.designpatterns)
+* [com.cm.designpatterns](https://github.com/empireboy/com.cm.designpatterns)
 * [com.cm.so](https://github.com/empireboy/com.cm.so)
