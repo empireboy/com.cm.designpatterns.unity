@@ -1,4 +1,4 @@
-# CM Design Patterns Unity V0.1.0
+# CM Design Patterns Unity v0.1.0
 
 CM Design Patterns Unity is a Unity package for design patterns like Command, Factory, Singleton etc...
 
